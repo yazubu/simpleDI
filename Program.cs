@@ -1,12 +1,20 @@
 ﻿using BT.Class;
 using BT.Interface;
+using Microsoft.Extensions.DependencyInjection;
 
 
-IDataAccess  da = new DataAccessOracle();
-IBizness biz = new Bizness(da);
+//register dependencies
+IServiceCollection collection = new ServiceCollection();
+collection.AddScoped<IDataAccess,DataAccessOracle>();
+collection.AddScoped<IBizness,Bizness>();
+collection.AddScoped<UI>();
 
-UI ui = new UI(biz);
+//create objects
+IServiceProvider provider = collection.BuildServiceProvider();
 
+// UI ui = new UI(biz);
+
+UI ui = provider.GetService<UI>(); //don't have to pass the bizness class as service collection is doing this for us
 ui.SignUp();
 Console.Read();
 

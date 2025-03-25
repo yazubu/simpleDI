@@ -13,3 +13,7 @@
 /home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.pdb
 /home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.genruntimeconfig.cache
 /home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/ref/DITest.dll
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.csproj.AssemblyReference.cache
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.csproj.Up2Date
