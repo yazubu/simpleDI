@@ -1,0 +1,15 @@
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/DITest
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/DITest.deps.json
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/DITest.runtimeconfig.json
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/DITest.dll
+/home/yazzi/GitRepos/simpleDI/bin/Debug/net9.0/DITest.pdb
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.GeneratedMSBuildEditorConfig.editorconfig
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.AssemblyInfoInputs.cache
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.AssemblyInfo.cs
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.csproj.CoreCompileInputs.cache
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.sourcelink.json
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.dll
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/refint/DITest.dll
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.pdb
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/DITest.genruntimeconfig.cache
+/home/yazzi/GitRepos/simpleDI/obj/Debug/net9.0/ref/DITest.dll
